@@ -2,7 +2,7 @@ import React from 'react'
 
 function filePushGithub() {
   return (
-    <div>Siranjeevi</div>
+    <div>Siranjeevi github</div>
   )
 }
 
